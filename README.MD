@@ -10,3 +10,6 @@
 
 ### WIKI
 For more details, visit the [wiki](https://github.com/willydaus/StationaryBikeGenerator/wiki/Stationary-Bike-Generator)!
+
+### DEMO
+--Demo video goes here--
