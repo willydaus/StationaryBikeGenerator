@@ -9,4 +9,4 @@
 --Goals go here--
 
 ### WIKI
-For more details, visit the wiki[https://github.com/willydaus/StationaryBikeGenerator/wiki/Stationary-Bike-Generator]!
+For more details, visit the [wiki](https://github.com/willydaus/StationaryBikeGenerator/wiki/Stationary-Bike-Generator)!
