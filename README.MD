@@ -9,7 +9,7 @@
 This project explores one of many different ways to harness the energy wasted while working out at a gym. With this system, the user can charge their phones while working out rather than using an electrical outlet, saving the planet one joule at a time.
 
 ### WIKI
-For more details, visit the [wiki](https://github.com/willydaus/StationaryBikeGenerator/wiki/Stationary-Bike-Generator)!
+For more details, visit the [wiki](https://github.com/willydaus/StationaryBikeGenerator/wiki)!
 
 ### DEMO
 [Click here to see the demo video of this system in action!](https://www.youtube.com/watch?v=8YuAg-QdLLo)
